@@ -1,8 +1,8 @@
 {
-  "projectName": "app",
+  "projectName": "@tixistco/app",
   "mode": "file-router",
   "typescript": true,
-  "packageManager": "npm",
+  "packageManager": "pnpm",
   "includeExamples": true,
   "tailwind": true,
   "addOnOptions": {},
